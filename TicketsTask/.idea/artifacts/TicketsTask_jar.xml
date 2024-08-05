@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="TicketsTask:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TicketsTask_jar</output-path>
+    <root id="root">
+      <element id="archive" name="TicketsTask.jar">
+        <element id="module-output" name="TicketsTask" />
+      </element>
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.17.2" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.17.2" />
+      <element id="library" level="project" name="Maven: org.jetbrains:annotations:24.1.0" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.17.2" />
+    </root>
+  </artifact>
+</component>
